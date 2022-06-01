@@ -1,4 +1,8 @@
-package ninesalary
+package salary
+
+import (
+	person "secondProject/person"
+)
 
 type NineSalary struct{}
 
